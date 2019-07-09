@@ -1,0 +1,14 @@
+初始化git仓库
+git init
+提交暂存区
+git add <fileName>
+git add .
+提交到分支
+git commit - m <fileName>
+回溯版本
+git reset --hard HEAD^
+git reset -- <versionNum>
+撤销修改
+git checkout -- <fileName>
+
+
